@@ -113,6 +113,7 @@ img {
     text-decoration: none;
     color: var(--Desaturated-blue);
     font-weight: 700;
+    transition: color 0.2s ease-in;
 }
 
 .card-content a:hover{
@@ -149,6 +150,7 @@ img {
     text-decoration: underline;
     font-weight: bold;
     color: var(--bright-blue);
+    transition: color 0.2s ease-in;
 }
 
 .plan-container a:hover{
@@ -181,6 +183,7 @@ img {
     font-weight: 700;
     border-radius: 10px;
     box-shadow: 0 18px 19px 0px hsla(245, 75%, 52%, 0.2);
+    transition: background-color 0.2s ease-in;
 }
 
 .btn:hover{
